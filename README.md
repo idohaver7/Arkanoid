@@ -19,28 +19,28 @@ Arkanoid is a classic brick-breaker game where the player controls a paddle to b
 Below are screenshots from the game, showcasing the three levels and the game over screen:
 
 ### Level 1: "Yam Pam Puz"
-![Level 1]<img width="1203" height="500" alt="Screenshot 2025-08-30 122034" src="https://github.com/user-attachments/assets/9394cabb-8cc0-454c-bc34-eafed208db15" />
+![Level 1]<img width="600" height="500" alt="Screenshot 2025-08-30 122034" src="https://github.com/user-attachments/assets/9394cabb-8cc0-454c-bc34-eafed208db15" />
 
 
 - Features a target and concentric circles for aiming practice.
 - Focuses on precision and control.
 
 ### Level 2: "Mid Level"
-![Level 2]<img width="1195" height="500" alt="Screenshot 2025-08-30 122043" src="https://github.com/user-attachments/assets/4f1ec446-bd1b-4f57-912f-854f801e2860" />
+![Level 2]<img width="600" height="500" alt="Screenshot 2025-08-30 122043" src="https://github.com/user-attachments/assets/4f1ec446-bd1b-4f57-912f-854f801e2860" />
 
 
 - Features a bright sun effect and varied block placement.
 - Encourages strategic block breaking and maneuvering.
 
 ### Level 3: "You Can't Win Here"
-![Level 3]<img width="1198" height="500" alt="Screenshot 2025-08-30 122147" src="https://github.com/user-attachments/assets/7dba5372-04ab-4951-bef6-d1e24cfdab82" />
+![Level 3]<img width="600" height="500" alt="Screenshot 2025-08-30 122147" src="https://github.com/user-attachments/assets/7dba5372-04ab-4951-bef6-d1e24cfdab82" />
 
 
 - Classic brick wall layout with special blocks ("add ball", "deadblock").
 - Includes obstacles and increased difficulty.
 
 ### Game Over Screen
-![Game Over]<img width="1195" height="500" alt="Screenshot 2025-08-30 122156" src="https://github.com/user-attachments/assets/09a72ab7-0334-4c92-884a-2242368dbeab" />
+![Game Over]<img width="600" height="500" alt="Screenshot 2025-08-30 122156" src="https://github.com/user-attachments/assets/09a72ab7-0334-4c92-884a-2242368dbeab" />
 
 
 - Displays your final score and prompts you to close the game.
