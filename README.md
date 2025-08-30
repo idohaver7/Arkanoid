@@ -1,4 +1,7 @@
+
 # Arkanoid Game Project
+<img width="1200" height="375" alt="Arkanoid-logo svg" src="https://github.com/user-attachments/assets/e077ec53-ea60-4f0b-b434-8de287f41fd1" />
+
 
 Welcome to my Arkanoid game project!  
 This game was developed as part of my Object-Oriented Programming (OOP) course and serves as a demonstration of OOP principles and a variety of design patterns.
@@ -17,25 +20,29 @@ Arkanoid is a classic brick-breaker game where the player controls a paddle to b
 Below are screenshots from the game, showcasing the three levels and the game over screen:
 
 ### Level 1: "Yam Pam Puz"
-![Level 1](1.png)
+![Level 1]<img width="1203" height="954" alt="Screenshot 2025-08-30 122034" src="https://github.com/user-attachments/assets/9394cabb-8cc0-454c-bc34-eafed208db15" />
+
 
 - Features a target and concentric circles for aiming practice.
 - Focuses on precision and control.
 
 ### Level 2: "Mid Level"
-![Level 2](2.png)
+![Level 2]<img width="1195" height="946" alt="Screenshot 2025-08-30 122043" src="https://github.com/user-attachments/assets/4f1ec446-bd1b-4f57-912f-854f801e2860" />
+
 
 - Features a bright sun effect and varied block placement.
 - Encourages strategic block breaking and maneuvering.
 
 ### Level 3: "You Can't Win Here"
-![Level 3](3.png)
+![Level 3]<img width="1198" height="935" alt="Screenshot 2025-08-30 122147" src="https://github.com/user-attachments/assets/7dba5372-04ab-4951-bef6-d1e24cfdab82" />
+
 
 - Classic brick wall layout with special blocks ("add ball", "deadblock").
 - Includes obstacles and increased difficulty.
 
 ### Game Over Screen
-![Game Over](4.png)
+![Game Over]<img width="1195" height="925" alt="Screenshot 2025-08-30 122156" src="https://github.com/user-attachments/assets/09a72ab7-0334-4c92-884a-2242368dbeab" />
+
 
 - Displays your final score and prompts you to close the game.
 
@@ -62,7 +69,8 @@ This project is a showcase of several design patterns, including:
 
 1. Clone the repository.
 2. Ensure you have Java (or the required runtime environment).
-3. Run the main game file (instructions may vary by your setup).
+3. cd Arkanoid
+4. ant run
 
 ## Credits
 
