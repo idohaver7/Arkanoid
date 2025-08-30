@@ -1,4 +1,5 @@
 <img width="1200" height="375" alt="Arkanoid-logo svg" src="https://github.com/user-attachments/assets/e077ec53-ea60-4f0b-b434-8de287f41fd1" />
+
 # Arkanoid Game Project
 
 Welcome to my Arkanoid game project!  
